@@ -1,5 +1,11 @@
-@import "common/global";
+@import "common/_fonts";
 
-@import "common/header";
+@import "common/_reset";
 
-@import "common/footer";
+@import "common/_variables";
+
+@import "partials/global";
+
+@import "partials/header";
+
+@import "partials/footer";
